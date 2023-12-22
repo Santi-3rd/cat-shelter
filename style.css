@@ -11,7 +11,11 @@ body{
 
 button {
     background-color: #3882F6;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
     color: white;
+    font-weight: bold;
 }
 
 ul {
@@ -46,4 +50,9 @@ h1 {
 .hero {
   padding: 16px;
   margin: 16px;
+}
+
+.imgs {
+    display: flex;
+    flex-direction: row;
 }
