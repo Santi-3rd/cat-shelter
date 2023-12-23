@@ -28,7 +28,8 @@ ul {
 
 h1 {
     display: flex;
-    flex-shrink: 0;
+    font-size: 48px;
+    
 }
 
 .header {
@@ -61,4 +62,9 @@ h1 {
 .middle {
     display: flex;
     flex-direction: row;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
 }
