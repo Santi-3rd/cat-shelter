@@ -64,6 +64,15 @@ h1 {
     flex-direction: row;
 }
 
+.quote {
+    background-color: #e5e7eb;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    color: white;
+}
+
 .footer {
     background-color: #1F2937;
     color: white;
