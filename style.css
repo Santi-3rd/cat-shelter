@@ -71,12 +71,21 @@ h2 {
 .imgs {
     display: flex;
     flex-direction: row;
+    justify-content:space-evenly;
 }
 
 .cat {
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+.cat-img {
+    border: #3882F6;
+    border-style: solid;
+    border-width: 6px;
+    border-radius: 8px;
+    width: 50%;
 }
 
 .quote {
