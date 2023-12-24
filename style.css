@@ -29,7 +29,11 @@ ul {
 h1 {
     display: flex;
     font-size: 48px;
-    
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
 }
 
 .header {
@@ -61,7 +65,18 @@ h1 {
 
 .middle {
     display: flex;
+    flex-direction: column;
+}
+
+.imgs {
+    display: flex;
     flex-direction: row;
+}
+
+.cat {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 .quote {
