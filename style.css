@@ -92,6 +92,8 @@ h2 {
     display: flex;
     justify-content: center;
     background-color: #e5e7eb;
+    font: italic;
+    padding: 100px;
 }
 
 .call-to-action {
