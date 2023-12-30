@@ -39,6 +39,7 @@ h2 {
 .header {
     display: flex;
     justify-content: space-between;
+    padding-left: 25px;
 }
 
 .content {
@@ -48,6 +49,7 @@ h2 {
 
 .top {
     display: flex; 
+    padding-right: 50px;
 }
 
 .header,
@@ -60,8 +62,6 @@ h2 {
   padding: 16px;
   margin: 16px;
 }
-
-
 
 .middle {
     display: flex;
